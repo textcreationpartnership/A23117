@@ -1,0 +1,317 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The abregement of the statutes of Anno.xxxj. Henrici.viij</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1541</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23117</idno>
+            <idno type="STC">STC 9542.3</idno>
+            <idno type="STC">ESTC S111910</idno>
+            <idno type="EEBO-CITATION">99847170</idno>
+            <idno type="PROQUEST">99847170</idno>
+            <idno type="VID">12193</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23117)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 12193)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 07:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The abregement of the statutes of Anno.xxxj. Henrici.viij</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Elizabeth Redman?,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1541?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Suggested imprint and publication date from STC.</note>
+                  <note>Caption title.</note>
+                  <note>Formerly STC 9541.</note>
+                  <note>Identified as STC 9541 on UMI microfilm reel 7.</note>
+                  <note>Signatures: A.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Laws --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="digest_of_statutes">
+            <pb facs="tcp:12193:1"/>
+            <pb facs="tcp:12193:1" rendition="simple:additions"/>
+            <head>¶ The abregement of the ſta<g ref="char:EOLunhyphen"/>tutes of Anno .xxxj. Henrici .viij.</head>
+            <div type="part">
+               <head>¶ Abylyte.</head>
+               <p>
+                  <seg rend="decorInit">A</seg>Ll perſones profeſſed in any relygious houſes nowe comen or whiche hereafter ſhall come to the Kynges handes in any wyſe whiche parſones are nowe ſette or hereafter ſhall happen to be ſet at theyr lyberties out of the daunger of theyr profeſ<g ref="char:EOLhyphen"/>ſyon be &amp; ſhalbe able to purchaſe al maner of heredi<g ref="char:EOLunhyphen"/>tame<g ref="char:cmbAbbrStroke">̄</g>tes &amp; thiges whatſoeuer they be. And may vſe take &amp; inioye al lawful thynges to be gyuen to the<g ref="char:cmbAbbrStroke">̄</g> after y<hi rend="sup">e</hi> tyme of theyr departyng out of religio<g ref="char:cmbAbbrStroke">̄</g>. And alſo be and ſhall be able to purſue and be ſayd in al maner of ſuytes for any mater growen after theyr ſayde departynge out of relygyon in as large and ample maner as yf they had neuer ben profeſſed. Prouyded alwayes that no ſuche perſones ſhall to any intent or co<g ref="char:cmbAbbrStroke">̄</g>ſtruccion be demed heyre to any per<g ref="char:EOLunhyphen"/>ſon. Nor to be able to demaunde or receyue any he<g ref="char:EOLhyphen"/>redy tamentes, or thynges by reaſon of any former tytle, ryght, or cauſe growynge before theyr de<g ref="char:EOLhyphen"/>partynge out of relygyon. Nor ſuche of them as be Preeſtes or haue vowed relygyon at .xxi. yeres of age, and then conſented contynuyng there any whi<g ref="char:EOLhyphen"/>le after nat prouyng ſuche vowe to be made by any vnlawefull cohercyon ſhalle able to marye or take <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny wyſe.</p>
+               <trailer>Anno xxxi. Henrici octaui. cap. ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xto.</trailer>
+            </div>
+            <div type="part">
+               <head>☞ Augmentacyons.</head>
+               <pb facs="tcp:12193:2"/>
+               <p> ALl the religious and Eccleſiaſticall houſes with all the lande<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and tenementes profi<g ref="char:EOLhyphen"/>tes and commodites to the ſame belonging whiche are comen to the Kynges handes ſyns the Parlyamente holden the xxvii. yere of his raygne or whiche hereafter ſhal come to his graces ha<g ref="char:cmbAbbrStroke">̄</g>des and poſſeſſyon ſhall be to his grace and hys heyres for euer. And all ſuche houſes and other the pre<g ref="char:EOLhyphen"/>myſſes excepte onely ſuch as ſhal come to hys gra<g ref="char:EOLunhyphen"/>ces handes by atteyndre of treaſon / ſhall be vnder the ſurety and gouernaunce of the Courte of Aug<g ref="char:EOLhyphen"/>mentacyons and the mynyſters of the ſame courte. Sauynge to all perſons and bodyes polytyke and theyr heyres and ſucceſſours other than the gouer<g ref="char:EOLunhyphen"/>nours of the ſayde houſes, and ſuche as pretende to be founders, patrons, or donours of ſuch houſes or tenemetes &amp; profytes perteynynge to the ſame al ſuch ryght, tytle, intereſt, rentes, charges, annui<g ref="char:EOLunhyphen"/>ties leaſes, fermes, offyces, fees, lyuerees, &amp; liuyn<g ref="char:EOLhyphen"/>ges, porcyons, pencions, corrodies, commons, ſino<g ref="char:EOLhyphen"/>des proxies any other profytes as they ſhalde ha<g ref="char:EOLhyphen"/>ue had yf this<g ref="char:punc">▪</g> Acte had nat ben made. Rentes ſer<g ref="char:EOLhyphen"/>uice, Rente ſecke and al of her ſeruyces and ſuytes onely excepte. Prouyded olwaye that al maner of grau<g ref="char:cmbAbbrStroke">̄</g>tes &amp; ſeales for lyfe or yeres heretofore made by the gouernoure or gouerneſſe of any ſuch houſe of any la<g ref="char:cmbAbbrStroke">̄</g>des or teuemetes or other profitꝭ late per<g ref="char:EOLunhyphen"/>taynyng to ſuch houſe &amp; within one hole yere next before the commyng of ſuche houſe to the Kynges handes whiche were nat co<g ref="char:cmbAbbrStroke">̄</g>monly wont to be let to ferme but kepte in thoccupacyon of ſuch gouernour or gouerneſſe for y<hi rend="sup">•</hi> mayntenaunce of hoſpitalyte / 
+<pb facs="tcp:12193:2"/>or of which any particuler intereſt for terme of life yere or yeres, at the tyme of the makynge of ſuche gran<g ref="char:cmbAbbrStroke">̄</g>t or leaſe had any co<g ref="char:cmbAbbrStroke">̄</g>tynuau<g ref="char:cmbAbbrStroke">̄</g>ce &amp; nat expyred / or els vpo<g ref="char:cmbAbbrStroke">̄</g> which grau<g ref="char:cmbAbbrStroke">̄</g>tes or leaſſes y<hi rend="sup">•</hi> olde rentes &amp; fermes accuſtomed by the ſpace of .xx. yeres nexte before y<hi rend="sup">•</hi> firſt day of this parlyame<g ref="char:cmbAbbrStroke">̄</g>t, is nat therup<g ref="char:EOLhyphen"/>on reſerued, or yf any ſuch gonernour or gouerneſe within the ſpace of one yere (as is aforſayde) hath made any wodſale which woddes be yet ſta<g ref="char:cmbAbbrStroke">̄</g>dynge, Al ſuch grau<g ref="char:cmbAbbrStroke">̄</g>tes leaſes &amp; ſales ſhalbe vtterly voyd. ¶ Item al feffeme<g ref="char:cmbAbbrStroke">̄</g>tes fines &amp; recoueres ſuffred by any ſuche gouernour or gouerneſſe within one yere (as is aforſayde) of any hereditame<g ref="char:cmbAbbrStroke">̄</g>tes which they helde of y<hi rend="sup">•</hi> kynges grau<g ref="char:cmbAbbrStroke">̄</g>t or co<g ref="char:cmbAbbrStroke">̄</g>firmacio<g ref="char:cmbAbbrStroke">̄</g> or of any of his progenitour or of y<hi rend="sup">•</hi> which houſes y<hi rend="sup">•</hi> kynge was fou<g ref="char:cmbAbbrStroke">̄</g>der or patron, or whiche hereditame<g ref="char:cmbAbbrStroke">̄</g>tes were of tholde fundacio<g ref="char:cmbAbbrStroke">̄</g> or poſſeſſio<g ref="char:cmbAbbrStroke">̄</g> of ſuch houſes w<hi rend="sup">t</hi>out the ki<g ref="char:cmbAbbrStroke">̄</g>ges lice<g ref="char:cmbAbbrStroke">̄</g>ce vnder his great ſeale ſhalbe voyde. ¶ Note that what grauntes ſales and wodſales by this Acte be made voyde and what excepted (as afore is ſayd) by the gouernours or gouerneſſes of ſuche houſes as be al redy comen to the kynges ha<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>des, euyn ſo it is further enacted I euery point qua<g ref="char:EOLunhyphen"/>lyte and degre of al leaſes and gran<g ref="char:cmbAbbrStroke">̄</g>tes for lyfe or yeres and wodſales whiche hath ben made within one yere nexte before the begynynge of this par<g ref="char:EOLhyphen"/>lyament, or whiche heteafter ſhall be made by any gouernour or gouerneſſe of any houſe yet ſtandyng <g ref="char:leaf">❧</g> Item al feffementes fines &amp; recoueries which within one yere nexte before the begynning of this parlyamente hathe bene or whiche hereafter ſhalbe made and ſuffred by the gouernours or gouerneſſes
+<pb facs="tcp:12193:3"/>of the houſes yet ſtandynge without the kynges ly<g ref="char:EOLunhyphen"/>cence vnder his greate ſeale ſhalbe voyde. So that the heredytamentes be of the kyngte graunt or co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>firmacion or his progenytoures, or els where the kynge is founder or patron of the houſe, or where the ſame heredytamentes were of tholde foundaci<g ref="char:EOLhyphen"/>on or poſſeſſyon.</p>
+               <p>¶ Item touchynge the auoydynge of grauntes or leaſes for yeres (ſuche as before be ſpoke of) where any interreſte &amp; terme at the tyme of the makynge therof remayneth in the grauntee or leſſee it is pro<g ref="char:EOLunhyphen"/>uyded that the ſame grauntee or leſſee ſhall haue .xxi. yeres of the ſaide newe graunte or leaſe in <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> there be ſo many yeres. And if there be nat than for ſo many yeres as be in his newe graunt or leaſe, ſo that tholde rente be therupon reſerued and ſo that the ſame leaſe or graunt excede nat xxi. yeres.</p>
+               <p>
+                  <g ref="char:leaf">❧</g> Item a lyke prouiſo is ordeyned for graun<g ref="char:EOLhyphen"/>tes or leaſes made by any late gouernour or gouer<g ref="char:EOLhyphen"/>neſſe within a yere nexte before the dyſſolucion of his houſe for terme of lyfe where ſuche graunte or leſſee at the ſame tyme helde the ſame for lyfe or yeres than nat expired, ſo that tholde rente be ther vpon reſerued.</p>
+               <p>
+                  <g ref="char:leaf">❧</g> Item al leaſes &amp; grau<g ref="char:cmbAbbrStroke">̄</g>tes for life of any heredi<g ref="char:EOLunhyphen"/>tame<g ref="char:cmbAbbrStroke">̄</g>tes cuſtomari made by copy of the court to uſe, be ſaued, ſo that tholde rent be therupon reſerued. ☞ Ite<g ref="char:cmbAbbrStroke">̄</g> al leaſes made by thauctoryte of the court of Augmentacions. And all leaſes feffementes and wodſales made by the ſayde gouernours or gouer<g ref="char:EOLhyphen"/>neſſes vnder theyr comen ſeale within a yere befo<g ref="char:EOLhyphen"/>re the diſſolucion. &amp;c. whiche haue bene affyrmed
+<pb facs="tcp:12193:3"/>in the ſayde court. And the ſame degree put in wri<g ref="char:EOLhyphen"/>tyng ſealed with the ſeale of the ſame court ſhalbe good and effectual.</p>
+               <p>☞ Item the Chaunceler of the ſayde courte with ii more of them ſhall reſtore recompence (as they ſhall thynke conuenyente all ſuche ſummes of mo<g ref="char:EOLhyphen"/>ney as any gouernour or gouerneſſe hath taken for any wodſale without fraude or couyn, in cas the ꝑ<g ref="char:EOLunhyphen"/>tye that payed the ſame may nat lawefully enioye his bargayne.</p>
+               <p>☞ Item all purchaſes by any perſons by indentu<g ref="char:EOLunhyphen"/>re fyne feffement recouery or otherwyſe of any go<g ref="char:EOLhyphen"/>uernour or gouernes ſyns the .iiii. day of February the .xxvii. yere aforeſayde of any theyr heredyta<g ref="char:EOLhyphen"/>mentes by the kynges licence pardon <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onfyrmacy<g ref="char:EOLhyphen"/>on releſe or conſent vnder his great ſeale, had or he<g ref="char:EOLunhyphen"/>reafter to be had be good accordyng to the purport of the ſame aſſura<g ref="char:cmbAbbrStroke">̄</g>ces.</p>
+               <trailer>An .xxxi. h. viii. cap. xiii.</trailer>
+            </div>
+            <div type="part">
+               <head>¶ Byſhops.</head>
+               <p>The kyng may fro tyme to tyme name by his letters patentes or other wrytynges vn<g ref="char:EOLhyphen"/>der his great ſeale ſuch nombre of Byſhops cytyes fees for Byſhops, cathedrull Churche &amp; dyoſes by meetes &amp; boddes as ſhal apperteyn &amp; en<g ref="char:EOLhyphen"/>dewe the <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſuch poſſeſſio<g ref="char:cmbAbbrStroke">̄</g>s as his grace ſhall thi<g ref="char:cmbAbbrStroke">̄</g>ke co<g ref="char:cmbAbbrStroke">̄</g>uenye<g ref="char:cmbAbbrStroke">̄</g>t Alſo he may make &amp; diuiſe tra<g ref="char:cmbAbbrStroke">̄</g>ſlacio<g ref="char:cmbAbbrStroke">̄</g>s, ru<g ref="char:EOLhyphen"/>les &amp; ſtatutes co<g ref="char:cmbAbbrStroke">̄</g>cernyng euery of the<g ref="char:cmbAbbrStroke">̄</g>.</p>
+               <trailer>An .xxxi. H. viii. cap. ix.</trailer>
+               <argument>
+                  <p>¶ Loke more of Byſhopes in the title of viſitacyo<g ref="char:cmbAbbrStroke">̄</g>.</p>
+               </argument>
+            </div>
+            <div type="part">
+               <head>
+                  <g ref="char:leaf">❧</g> Contynuaunce of the ſtatutes of weſt<g ref="char:punc">▪</g> heretofore made.</head>
+               <p>U<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<g ref="char:cmbAbbrStroke">̄</g> actes made for punyſheme<g ref="char:cmbAbbrStroke">̄</g>t of vacabou<g ref="char:cmbAbbrStroke">̄</g>des, for reſtreynt of co<g ref="char:cmbAbbrStroke">̄</g>ueynge of horſes &amp; mare<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb facs="tcp:12193:4"/>out of this realme, for aſſautes &amp; affrayes of welſ<g ref="char:EOLhyphen"/>ſhemen vpo<g ref="char:cmbAbbrStroke">̄</g> thinhabitau<g ref="char:cmbAbbrStroke">̄</g>tes of berforde ſhyre, Glo<g ref="char:EOLunhyphen"/>ceſter ſhyre, &amp; Salop. for punyſhement of y<hi rend="sup">•</hi> vyce of buggory, for refireynt of co<g ref="char:cmbAbbrStroke">̄</g>nueyng of braſſe, latyn, &amp; coper, out of this realme For y<hi rend="sup">•</hi> true makyng of ro<g ref="char:EOLunhyphen"/>pes &amp; cables, for windi<g ref="char:cmbAbbrStroke">̄</g>g of wolles, for kylli<g ref="char:cmbAbbrStroke">̄</g>g we<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>lynges, bullockes &amp; ſteres vnder .ii. yeres. For at<g ref="char:EOLhyphen"/>teynt. For pewterers, for ſowen of flax and he<g ref="char:cmbAbbrStroke">̄</g>pe. And of makyng of <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ayles ſhall ſta<g ref="char:cmbAbbrStroke">̄</g>de in force tyl y<hi rend="sup">•</hi> laſt day of the next parlyame<g ref="char:cmbAbbrStroke">̄</g>t.</p>
+               <trailer>An. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1. H. 8 cap. 7</trailer>
+            </div>
+            <div type="part">
+               <head>¶ Exceſtre.</head>
+               <p>FOr the amendeme<g ref="char:cmbAbbrStroke">̄</g>t of the ryuer of Exe it is enacted that ſhalbe lawefull at all tymes af<g ref="char:EOLunhyphen"/>ter the feaſte of Eaſter nexte co<g ref="char:cmbAbbrStroke">̄</g>myng for the Mayre bayliffe and cominaltie of the cyte of Ex<g ref="char:EOLhyphen"/>eſtre to plucke downe, dygge moyne, breake, ba<g ref="char:cmbAbbrStroke">̄</g>ke and caſte vp al maner of lettes and noyſau<g ref="char:cmbAbbrStroke">̄</g>ce in the ſayde ryuer, and in other places neceſſarye for the ſame where ſoeuer they be, lyeng bytwene the ſaid cite and the hyghe ſee. And further to do and make all thinges neceſſary wherby al maner of veſſelles may haue ſure courſe and recourſe in the ſayd riuer to and fro the ſayd cyte and there to charge and diſ<g ref="char:EOLunhyphen"/>charge gooddes and marchau<g ref="char:cmbAbbrStroke">̄</g>dyſes without diſtur<g ref="char:EOLhyphen"/>bance of any perſon paying and makyng to the ow<g ref="char:EOLunhyphen"/>ners of the ſoile where they ſhal ſo dygge &amp; moyne due ſatyſfaccion for the lande ſo dygged &amp; moyned after the rate of .xx. yeres purchaſe, or els as the Iuſtices of aſſiſe in deuonſhyre for the tyme beyng ſhall <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing<g ref="char:punc">▪</g> the eleccyon therof to be at the pleaſure of the ſame owners of y<hi rend="sup">•</hi> ſoyle, without any let or trouble of ſuche owners by ſuyte in the lawe or o<g ref="char:EOLhyphen"/>therwyſe
+<pb facs="tcp:12193:4"/>vpo<g ref="char:cmbAbbrStroke">̄</g> payne of forfayture of .xx. li. for e<g ref="char:EOLhyphen"/>uery ſuch let or trouble, the one halfe to the king<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hyghnes and the other to him that wyl purſue for the ſame b<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>accyon of Dette byl plaint or informa<g ref="char:EOLunhyphen"/>tion in any of y<hi rend="sup">•</hi> kinges courtes. In which ſuyte no wager of lawe eſſoyne proteccion nor lycence ſhall in no wyſe be admytted nor allowed. Alſo yf any fermours be of any of the ſayde landes where. &amp;c. then they to take ſuche recompence as by the ſaide Iuſtices or theyr deputies in that behalfe ſhall be aſſeſſyd. All the ſayde recompences and ſatiſfacti<g ref="char:EOLhyphen"/>ons to be made and payed within .vi. wekes after the ratynge or aſſeſſyng therof, oneles they can o<g ref="char:EOLhyphen"/>therwyſe agre, for which ſatiſfaccion or recompe<g ref="char:cmbAbbrStroke">̄</g>ce the parties ſhal haue an actio<g ref="char:cmbAbbrStroke">̄</g> of Det by the cour<g ref="char:EOLhyphen"/>ſe of the co<g ref="char:cmbAbbrStroke">̄</g>mon lawe agaynſt the ſayd Mayre bay<g ref="char:EOLunhyphen"/>lyffes &amp; co<g ref="char:cmbAbbrStroke">̄</g>mynalty i<g ref="char:cmbAbbrStroke">̄</g> any ſhyre of thꝭ realme wher<g ref="char:EOLunhyphen"/>in no wager of lawe eſſoyne licence or protection to be allowed.</p>
+            </div>
+            <div type="part">
+               <head>¶ Fyſſhynge.</head>
+               <p>ALl maner fyſſhynge with nettes hookes or baytes in any ſeuerall ponde ſtewe or more with an inte<g ref="char:cmbAbbrStroke">̄</g>t to ſteale fyſſhe out of the ſa<g ref="char:EOLhyphen"/>me after the feaſte of the Natyuite of ſaynt Iohan Baptiſt the .xxxi. yere of the raygne of kynge Hen<g ref="char:EOLunhyphen"/>ry the .viii. bytwene .vi. of the clocke in y<hi rend="sup">•</hi> eneninge and .vi. in the mornynge agaynſt the wylles of the owners of ſuche ponde ſtewe or mote. And alſo the vnlawfull breakynge vp of the heade of any ſeue<g ref="char:EOLhyphen"/>ral po<g ref="char:cmbAbbrStroke">̄</g>d ſtewe or mote by day or by nyght after the ſayde feaſt without colour of tytle ſo to do wherby any of y<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fyſſhe there beyng is taken or deſtroied a<g ref="char:EOLhyphen"/>gaynſte
+<pb facs="tcp:12193:5"/>the owners wyll be to euery entent felony. Moreouer they y<hi rend="sup">t</hi> fyſſhe in y<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> day tyme affter y<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ma<g ref="char:EOLunhyphen"/>ner &amp; forme aforſayde in any ſeueral po<g ref="char:cmbAbbrStroke">̄</g>de ſtewe or mote at any other tym tha<g ref="char:cmbAbbrStroke">̄</g> afore is reherſed &amp; ther of be lawefully co<g ref="char:cmbAbbrStroke">̄</g>uicted at the ki<g ref="char:cmbAbbrStroke">̄</g>ges ſuite or the parties greued ſhal ſuffre .iii. monethes impriſon<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>t. And afterwarde to fi<g ref="char:cmbAbbrStroke">̄</g>de ſufficiete ſureties for their good abering or els to remaine in priſo<g ref="char:cmbAbbrStroke">̄</g> w<hi rend="sup">t</hi>out bayle or mainpriſe vntil they fyude ſuch ſuerties.</p>
+            </div>
+            <div type="part">
+               <head>Fawkon.</head>
+               <p>☞ Loke therfore in the tytle of Felony. <hi>31.</hi> H. <hi>8.</hi> Felonye.</p>
+               <p>VNlawefull takynge of thegge or egges of any fawkon goſhauke or lanet or of any of theyre brydes or the brydes of a Laneret out of the neſte in any of the kynges groundes is made felony, but this ſtatute extendeth nat for a<g ref="char:EOLunhyphen"/>ny ſuche takynge out of other mennes groundes.</p>
+               <p>
+                  <g ref="char:leaf">❧</g> Item whoſouer fyndeth and taketh vp any fawken gerfawkon Ierken ſacre or ſacret goſhau<g ref="char:EOLunhyphen"/>ke lenet or laneret of the kynges and hauynge the marke of the ki<g ref="char:cmbAbbrStroke">̄</g>ges armes and veruels and cauſeth nat the ſame hauke within .xii. daies next, after the takynge vp to be brought to the mayſter of the kin<g ref="char:EOLunhyphen"/>ges haukes, or to ſome of his graces fawkeners, or els within the ſayde tyme do nat gyue knowledge therof to the ſayde mayſter or to the ſheryfe where ſuche hauke ſhalbe taken vp, or to one of the kyn<g ref="char:EOLhyphen"/>ges faukeners nere there abydynge. Than ſuch ta<g ref="char:EOLhyphen"/>kynge vp and nat bryngyng or gynyng knowledge ſhalbe felony. Excepte it ſo happen that the taker<g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of ſuche hauke by chaunce neclygently agaynſte
+<pb facs="tcp:12193:5"/>his wyll loſe the ſame hauke, or yf it ſhall happen ſuche hauke to dye agaynſt his wyll before he may delyuer the ſame.</p>
+               <trailer>An .xxxi. H. viii. Capi .xii.</trailer>
+            </div>
+            <div type="part">
+               <p>
+                  <g ref="char:leaf">❧</g> Item yf any perſon wrongfully entreth into any foreſt, parke, or chace of the kynges y<hi rend="sup">•</hi> quenes the prynces, or of any of y<hi rend="sup">•</hi> ki<g ref="char:cmbAbbrStroke">̄</g>ges childre lawfully begotten or any other encloſed grounde of theyre vſed for kepynge of dere bytwene the ſonne riſyng and the ſonne goyng downe with his face hid or co<g ref="char:EOLunhyphen"/>uered with hoode or vyſer or with face paynted or himſelfe otherwyſe diſguyſed to thintent he wolde nat be knowen and in the ſame grounde intendeth to ſteale any of the dere And by huntyng or other wyſe by ſtealteth ſlee or take any of the ſame dere, or els dryue them out of ſuche grounde with an in<g ref="char:EOLunhyphen"/>tent to ſtele the ſame, or els yf any perſon in a like maner and tyme and with a lyke intent as afore is ſayde, take or kyl any conyes or rabettes with hey or other net, or with fyrret or purſnet within the fre warren of the kinge or any of the perſo<g ref="char:cmbAbbrStroke">̄</g>s aboue named or in the fourme aforeſayde kyll any ſuche conyes or rabettes beynge within any of the ſayde parkes excepte it be ſuch parſon as ſhalbe fermour of the ſame conyes rabettes or els ſhall be lycenſed by wrytynge of the kynge or other perſons afore<g ref="char:EOLunhyphen"/>ſayde ſo to do. Or if any perſon bytwene the ſo<g ref="char:cmbAbbrStroke">̄</g>ne goyng downe, and the ryſyng of the ſame into any of the ſayde grou<g ref="char:cmbAbbrStroke">̄</g>des to the intent there to ſteale a<g ref="char:EOLunhyphen"/>ny deare or by any meane in the tyme nexte afore<g ref="char:EOLunhyphen"/>ſayd ſle or take any deare there or out of the ſame grounde do chace any deare to the intent to ſteale it or in any ſuche tyme do take or kyll any conyes or
+<pb facs="tcp:12193:6"/>rabettes (after the forme as before is expreſſed of kyllynge them in the day time except it be the fer<g ref="char:EOLhyphen"/>mour of them or els lycenſed as afore is ſayde) eue<g ref="char:EOLunhyphen"/>ry ſuche offence is ordeyned and made to be felony Prouyded alwayee that no perſon ſhalbe demed ac<g ref="char:EOLunhyphen"/>ceſſary to ſuche offenders excepte ſuch as do pro<g ref="char:EOLunhyphen"/>cure the ſame offence to be done Nor that this acte extende to any offendour in any of the kynges, the quenes, princes or any of his graces lawefully be<g ref="char:EOLunhyphen"/>gotten children, foreſtes, chaces, or warrens in wa<g ref="char:EOLunhyphen"/>les or the borders agaynſt Scotlande, the foreſte of Snowden in wales onely excepte. Alſo thoffen<g ref="char:EOLunhyphen"/>ders contrary to this ſtatute muſt be endyted with<g ref="char:EOLunhyphen"/>in one yere next after the offe<g ref="char:cmbAbbrStroke">̄</g>ce co<g ref="char:cmbAbbrStroke">̄</g>mitted or els he ſta<g ref="char:cmbAbbrStroke">̄</g>deth as he did at y<hi rend="sup">•</hi> co<g ref="char:cmbAbbrStroke">̄</g>mo<g ref="char:cmbAbbrStroke">̄</g> law.</p>
+               <trailer>An. 31. H. 8. C. 12</trailer>
+            </div>
+            <div type="part">
+               <head>Gauelkynde.</head>
+               <p>ALl maner of heredytamentes beynge in the countie of kynte whereof the lorde Crum<g ref="char:EOLunhyphen"/>well of wimbyldon lorde Pryuy ſeale and of dyuers other perſons ſpecified in thꝭ acte be ſea<g ref="char:EOLunhyphen"/>ſed to there owne vſes in Fe ſi<g ref="char:cmbAbbrStroke">̄</g>ple or Fe tayle now beynge of the nature of Gauelkynde be chaunged fro the ſame nature, and made deſce<g ref="char:cmbAbbrStroke">̄</g>dable after the fourme of the common lawe.</p>
+            </div>
+            <div type="part">
+               <head>Hampton courte.</head>
+               <p>The kynges maner of hampton Courte is made an honour. And of the landes lyenge within the Lordſhyppes townes &amp; villages of Eſtmalſey, weſtmulſy, walto<g ref="char:cmbAbbrStroke">̄</g>, Eſher, weybridge &amp; parte of Cobha<g ref="char:cmbAbbrStroke">̄</g> in the county Surrey is made a newe Chace hauinge all lybertes to a chace pertey<g ref="char:EOLunhyphen"/>nynge. And is called hampton courte Chace.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:12193:6"/>
+               <head>Huntynge.</head>
+               <p>☞ Loke therfore in the tytle of felonye. 31. h. 8.</p>
+            </div>
+            <div type="part">
+               <head>Particion.</head>
+               <p>IOyntenau<g ref="char:cmbAbbrStroke">̄</g>tes &amp; tenau<g ref="char:cmbAbbrStroke">̄</g>tes in como<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">t</hi> be or ſhal<g ref="char:EOLhyphen"/>be ſeaſed of any eſtate of inheritaunce in theyr owne ryghte or in the ryghte of theyr wyfes of any heredytamentes ſhalbe compelled thereof to make partycyon bytwene them by write of Parti<g ref="char:EOLhyphen"/>cipatione facienda at the comon lawe in lyke maner and fourme as parceners haue vſed. And after ſuch particion made they and theyr heyres to haue ayde of other and theyr heires to deteygne theyr war<g ref="char:EOLhyphen"/>rantye paramou<g ref="char:cmbAbbrStroke">̄</g>t and to recouer ꝓrata as is vſed bytwene coparceners.</p>
+            </div>
+            <div type="part">
+               <head>¶ Placynge of lordes and other highe officers.</head>
+               <p>NO maner perſon excepte onely the kynges chyldren ſhall preſume to ſyt or haue place at any ſyde of the cloth of eſtate in the par<g ref="char:EOLhyphen"/>lyament chambre, whether the kynge be preſente or abſent. Alſo the vycegerent for the tyme beyng in all parlyamentes ſhall ſyt on the ryght ſyde of the parlyament chambre nexte aboue the Archeby<g ref="char:EOLunhyphen"/>ſhoppe of Caunterbury and to haue voyce there as other lordes of the parlyament. Nexte vnto hym ſhall ſytte on the ſame ſyde the ſaide Archebyſhop vpon the ſame fourme, nexte vnto him the Arche<g ref="char:EOLhyphen"/>byſhoppe of Yorke, nexte vnto him the Byſhoppe of London, nexte vnto hym the Byſhop of Dureſ<g ref="char:EOLhyphen"/>me, next vnto hym the Byſhop of wyncheſter. And tha<g ref="char:cmbAbbrStroke">̄</g> al other by ſhops as they haue heretofore accu<g ref="char:EOLhyphen"/>ſtomed. ☞ Item on the leſte ſyde of the parlye<g ref="char:EOLunhyphen"/>ment
+<pb facs="tcp:12193:7"/>chambre the lorde Chaunceler, lorde Trea<g ref="char:EOLhyphen"/>ſorer lorde Preſydent of the kynges Counſell and the lorde Pryue ſeale beyng of the degree of baro<g ref="char:cmbAbbrStroke">̄</g>s of the parlyament or aboue ſhall ſit aboue al dukes excepte ſuche as ſhall happen to be the kynges ſo<g ref="char:cmbAbbrStroke">̄</g>ne his brother, his vncle, his neuewe or his brother or ſuſter ſonnes. Item the great Chamberlayne, the Conſtable, the Marſhall, the lorde Admyrall, the great mayſter or lorde Stewarde, and the kynges Chamberlayne ſhall ſyt in ordre as they be here to<g ref="char:EOLunhyphen"/>kened nexte after the lorde pryue ſeale aboue al o<g ref="char:EOLhyphen"/>ther parſons beynge of theyr degrees. Item the cheife Secretary beyng a Baron ſhall ſyt aboue al Barons nat hauynge any of the offyces aforemen<g ref="char:EOLhyphen"/>cioned. And yf he be a byſhoppe than he to ſytte a<g ref="char:EOLunhyphen"/>boue al other Byſhops nat hanynge any of the of<g ref="char:EOLhyphen"/>fyces aboue remembred, Item off Dukes nat afo<g ref="char:EOLhyphen"/>re reherſed, Marqueſſes Erles, Vycountes, and Barons nat hauynge any of the offyces aforemen<g ref="char:EOLhyphen"/>cyoned ſhall ſyt accordynge to theyr auncyentyes. Item yf the lorde Chauncelour, lorde Treaſorer, lorde Preſydent of the counſell, lorde Preuy ſeale or chiefe Secretary happen to be vnder the degree of a Baron of the parlyament than they to be pla<g ref="char:EOLhyphen"/>ced in ordre at the vppermoſte parte of the Sak<g ref="char:EOLhyphen"/>kes in the myddes of the parlyament Chambre ey<g ref="char:EOLhyphen"/>ther vpon one fourme or els vppon the vppermoſte Sacke. Item peeres of the realme that ſhalbe cal<g ref="char:EOLhyphen"/>led for the tryal of treaſons and hauyng any of the ſayde offices ſhalbe placyd accordynge to theyr of<g ref="char:EOLunhyphen"/>fyces aboue the other peeres that be called to ſuche tryal. And alſo this ordre of placinge touchyng the
+<pb facs="tcp:12193:7"/>lorde Chauncellour, lorde Treaſorer and other te<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>porall officers afore reherſed ſhalbe kepte and ob<g ref="char:EOLhyphen"/>ſerued aſwel in the Starre cha<g ref="char:cmbAbbrStroke">̄</g>bre and al other aſ<g ref="char:EOLhyphen"/>ſembles and conferences of counſayle as before is declared to be in y<hi rend="sup">•</hi> Parliame<g ref="char:cmbAbbrStroke">̄</g>t.</p>
+               <trailer>An. 31. H. 8 Ca. x.</trailer>
+            </div>
+            <div type="part">
+               <head>¶ Proclamacyons.</head>
+               <p>The kyng by the aduiſe of y<hi rend="sup">•</hi> Metropolitan<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the lorde Chauncelour, lorde Treaſorer / the preſydent of the kynges moſt honoura<g ref="char:EOLhyphen"/>ble Counſell, lorde Preuy ſeale, and of other high officers named in this ſtatute or the moſte parte of them may at all tymes ſet furthe his proclamacy<g ref="char:EOLhyphen"/>ons vnder ſuche penalties and paynes and after ſu<g ref="char:EOLhyphen"/>che ſorte as to his hyghnes and the moſte parte of them ſhall ſeme neceſſarye to be obeyed as yf they were made by parlyament oneles the kynge do diſ<g ref="char:EOLhyphen"/>penſe with them vnder his greate ſenle. So that ſuche proclamacions extende nat to take away the inheritannces lawfull poſſeſſions offices lyberty<g ref="char:EOLhyphen"/>te preuyleges nor gooddes or catelles of any per<g ref="char:EOLhyphen"/>ſons or bodyes polytyke, nor to cauſe any parſon to ſuffre deth other than hereafter enſueth. Nor to infringe or breake any Actes comon lawes, now in force nor laudable cuſtome. And that euery officer<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to whome ſuche proclamacion ſhall be dyrected by wryt vnder the greate ſeale ſhall cauſe the ſame to be proclamed within .xiiii. dayes nexte after the re<g ref="char:EOLunhyphen"/>cepte therof in .iiii. market tewnes yf there be ſo many. And yf nat in .vi. other villages within there auctoryte. And they to cauſe the ſame proclamaci<g ref="char:EOLhyphen"/>on to be ſet vp i<g ref="char:cmbAbbrStroke">̄</g> open places vpo<g ref="char:cmbAbbrStroke">̄</g> the payne to be co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>teyned in the ſame. Item they that before the Me<g ref="char:EOLhyphen"/>tropolytane,
+<pb facs="tcp:12193:8"/>lorde Chaunceler, lorde Treaſores the preſydent of the kynges moſt honourable coun<g ref="char:EOLhyphen"/>ſell, Lorde preuy ſeale and other officers rehereſed in the ſayde ſtatute or the moſt parte of them (wher of the lorde Chaunceler, lorde Treaſorer, the ſayd preſide<g ref="char:cmbAbbrStroke">̄</g>t, Lord preuy ſeale, the great Cha<g ref="char:cmbAbbrStroke">̄</g>berlayne of Engla<g ref="char:cmbAbbrStroke">̄</g>de, the lord Admyral, the two chiefe Iud<g ref="char:EOLunhyphen"/>ges or .ii. of them ſhalbe .ii) within one halfe yere next after hys offence co<g ref="char:cmbAbbrStroke">̄</g>mytted ſhall happen to be accuſed. And therof within .xviii. monethes nexte after hys ſayd offence co<g ref="char:cmbAbbrStroke">̄</g>mytted conuycted by con<g ref="char:EOLhyphen"/>feſſyon or lawfull witnes and proues of &amp; for bre<g ref="char:EOLhyphen"/>kynge or obſtynatly nat obſeruynge any article con<g ref="char:EOLunhyphen"/>tayned in the ſayde proclamacyon ſhall loſe &amp; paye all ſuche forfaitures or ſummes of mony and ſuffre ſuch impriſonment as ſhalbe expreſſed in ſuch pro<g ref="char:EOLunhyphen"/>clamacyon, which ſuch offenders ſhall breake, So y<hi rend="sup">t</hi> the ſame proclamacyo<g ref="char:cmbAbbrStroke">̄</g> be made in the ſhyre wher thoffenders is or was co<g ref="char:cmbAbbrStroke">̄</g>uerſaunt within a yere be<g ref="char:EOLhyphen"/>fore, Item eyther of the lord Chauncelour, &amp; lord pryuy ſeale with thaſſent of .vi. of the afore named counſaylours ſhal haue power vpon euery informa<g ref="char:EOLunhyphen"/>cion to eyther of them gyuen to cauſe proces vnder the great or pryuy ſeale to be made againſt ſuch of<g ref="char:EOLunhyphen"/>fenders that is to ſay, fyrſt by proclamacyon vnder <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> payne. And yf he appere nat vpon the ſame nat ha<g ref="char:EOLunhyphen"/>uyng a lawful excuſe than they to awarde another proclamacyon vpon alligeans. And yf it be within the liberty of the duchy of Lancaſter than the ſame proceſſe to paſſe by the chau<g ref="char:cmbAbbrStroke">̄</g>celour there vnder the ſeale of the duchy with the aſſent of .vi. of y<hi rend="sup">•</hi> ſayde cou<g ref="char:cmbAbbrStroke">̄</g>ſaylers. And yf any ſuch offe<g ref="char:cmbAbbrStroke">̄</g>ders do depart out
+<pb facs="tcp:12193:8"/>of the realme obſtinatly wyllingly or co<g ref="char:cmbAbbrStroke">̄</g>te<g ref="char:cmbAbbrStroke">̄</g>ptuouſly to the intent he wyl nat anſwere to his offence tha<g ref="char:cmbAbbrStroke">̄</g> ſuche departynge to be iuged hygh treaſon. And yf any ſuche offender do abſente or ſecretly hyde hym ſelfe within any of the kynges dominio<g ref="char:cmbAbbrStroke">̄</g>s by the ſpa<g ref="char:EOLunhyphen"/>ce of .ii. monethes nexte after any proclamacyon a<g ref="char:EOLhyphen"/>warded and proclaymed where he may by any rea<g ref="char:EOLhyphen"/>ſonable meane haue knowlege ſo that by occaſyon therof his offence can nat be tried and iuged within y<hi rend="sup">•</hi> ſayd tyme of .xviii. monethes tha<g ref="char:cmbAbbrStroke">̄</g> ſuche offenders to ſta<g ref="char:cmbAbbrStroke">̄</g>de conuict of the offence with loſyng ſuche for<g ref="char:EOLunhyphen"/>fayture and ſuffrynge ſuche impriſonment as ſhall appertayne. Ite<g ref="char:cmbAbbrStroke">̄</g> the Iuſtices of peas to whom any ſuche proclamacion ſhall be dyrectyd, within .xiiij. dayes after the recept therof maye by theyr diſcre<g ref="char:EOLhyphen"/>tions deuide them ſelfes into ſundry places within theyr iuriſdiccion for the due execucyon of ſuche ꝓ<g ref="char:EOLunhyphen"/>clamacion. Item the ſayde counſaylours appointed to the determynacion of euery ſuche offence (know<g ref="char:EOLunhyphen"/>yng the kynges pleaſure) haue auctoryte to myty<g ref="char:EOLhyphen"/>gate the penalties compriſed in any ſuche proclama<g ref="char:EOLunhyphen"/>tion.</p>
+               <trailer>Anno .xxxi. h .viii. cap. viii</trailer>
+            </div>
+            <div type="part">
+               <head>¶ Tythes.</head>
+               <p>The kyng &amp; euery other parſon whiche here<g ref="char:EOLunhyphen"/>after ſhal haue any monaſterye or other reli<g ref="char:EOLunhyphen"/>gious or eccleſiaſtical houſe or place, landes tenementes or any parſonage appropriat tithes pe<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>ſions or porcions or other hereditame<g ref="char:cmbAbbrStroke">̄</g>tes late par<g ref="char:EOLhyphen"/>teynyng to ſuche houſe ſhall enioy aſwel y<hi rend="sup">•</hi> ſaid par<g ref="char:EOLunhyphen"/>ſonage tithes, pe<g ref="char:cmbAbbrStroke">̄</g>cions, &amp; porcio<g ref="char:cmbAbbrStroke">̄</g>s as other y<hi rend="sup">•</hi> premiſ<g ref="char:EOLhyphen"/>ſes according to theyr littes in the ſame diſcharged of payment of tythes in as ample maner as the late
+<pb facs="tcp:12193:9"/>gouernours or gouerneſſes of the ſame did enioy<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the ſame at the dayes of theyr diſſolucyon. Sa<g ref="char:EOLhyphen"/>uynge to the kynge, all maner of re<g ref="char:cmbAbbrStroke">̄</g>tes ſeruices &amp; o<g ref="char:EOLhyphen"/>ther duties.</p>
+               <trailer>An. xxxi. h. viii. cap. xiii.</trailer>
+            </div>
+            <div type="part">
+               <head>¶ Vyſitacions.</head>
+               <p>ALl ſuche of the late relygious or eccleſiaſti<g ref="char:EOLhyphen"/>call houſes diſſolued with all the churches &amp; chapels to any of them belongynge which before y<hi rend="sup">•</hi> ſayd diſſolucion were exempted fro<g ref="char:cmbAbbrStroke">̄</g> the vi<g ref="char:EOLunhyphen"/>ſitacion &amp; al other iuriſdiccions or ordinary within whoſe dyoces they were ſette, ſhall fro<g ref="char:cmbAbbrStroke">̄</g>shenſforth be within the viſitacio<g ref="char:cmbAbbrStroke">̄</g> &amp; iuriſdiccyon of the ſame ordy<g ref="char:EOLunhyphen"/>nary within whoſe dyoces they be ſet or of ſuche ꝑ<g ref="char:EOLunhyphen"/>ſons <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by the k<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nges highnes ſhall be appoynted.</p>
+               <trailer>Anno. xxxi. h viii. cap. xiii.</trailer>
+            </div>
+            <div type="part">
+               <head>¶ Wales.</head>
+               <p>The kynges hyghnes hath from the firſte day of this parlyament duryng the terme of .iii yeres than nexte folowynge auctoryte by wrytynge vnder his greate ſeale to lymyt to euery of the ſhires in wales late made by auctorite of the parlyament holden the .xxvii. yere of his reigne ſo many lordeſhyps townes pariſhes hamelettes hun<g ref="char:EOLunhyphen"/>dredes co<g ref="char:cmbAbbrStroke">̄</g>motꝭ and cantredes as he ſhall thynke co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>uenynt, and alſo to lymyt the ſhire townes in eu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ry ſuche ſhyre.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="digest_of_statutes">
+            <pb facs="tcp:12193:9"/>
+            <head>¶ Here begynneth the Abre<g ref="char:EOLhyphen"/>gement of the ſtatutes of made in the .xxxii. yere of the reygne of kyng Henry the eyght.</head>
+            <div type="part">
+               <head>Alyens.</head>
+               <p>
+                  <seg rend="decorInit">A</seg>Ll Alyens Denyſens or which ſhalbe made Denyſyns ſhal be bounde and obedyent to al law<g ref="char:EOLhyphen"/>es and ſtatutes made not beyng re<g ref="char:EOLunhyphen"/>pelled. And a ſpecyal prouiſo ther of to be expreſed in theyr letters patentes. And that no Alyen vſynge any handy<g ref="char:EOLhyphen"/>crafte ſhall repayre and kepe in theyr ſeruyce any apprentyce iorneyman or ſeruaunt beyng Alyene aboue .ij. at one tyme, with dyuers other good pro<g ref="char:EOLhyphen"/>uyſyons in the ſayde ſtatute,</p>
+               <trailer>xxxii. Henrici. viij. Cap. xvi.</trailer>
+            </div>
+            <div type="part">
+               <head>¶ Auowrye.</head>
+               <p>¶ See in the Tytle of Det in the .xxxii. yere of Henry the .viij. Ca. xxxvii</p>
+            </div>
+            <div type="part">
+               <head>¶ Byeng of Tytles.</head>
+               <p>¶ See in the title of Embracery in the .xxxii. yere of henry the .viij. Cap ix.</p>
+            </div>
+            <div type="part">
+               <head>¶ Barbours and Surgyons.</head>
+               <p>The ii. ſeueral companyes of Barbours and Surgyons of London ſhall be fromhenſ<g ref="char:EOLhyphen"/>forthe one company and a body corporate perpetuall called by the name of maſters or gouer<g ref="char:EOLhyphen"/>nours</p>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
